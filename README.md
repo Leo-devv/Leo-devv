@@ -1,17 +1,15 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-devv)](https://github.com/anuraghazra/github-readme-stats)
+# Hi there, I'm Leo 👋
 
-<!--
-**Leo-devv/Leo-devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-devv)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
+Welcome to my GitHub profile! Here are some stats about my coding journey:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats:
+<a href="https://github.com/Leo-devv">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Leo-devv&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Leo-devv">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-devv&layout=compact&langs_count=8&theme=radical" />
+</a>
+
+## 🚀 Featured Projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-devv&repo=example-repo1&theme=radical)](https://github.com/Leo-devv/example-repo1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-devv&repo=example-repo2&theme=radical)](https://github.com/Leo-devv/example-repo2)
