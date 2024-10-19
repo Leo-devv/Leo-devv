@@ -35,7 +35,7 @@ Hi there! I'm **Leo** 👋, a passionate software developer, open-source enthusi
 
 ## 🌟 Featured Projects:
 <p align="center">
-  <a href="https://github.com/Leo-devv/project-1">
+  <a href="https://github.com/Leo-devv/clear-mind">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-devv&repo=project-1&theme=radical" />
   </a>
   <a href="https://github.com/Leo-devv/project-2">
