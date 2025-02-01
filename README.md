@@ -1,7 +1,7 @@
 ![Welcome to Leo-devv's GitHub Profile!](https://github.com/Leo-devv/banner.jpg)
 
 # Welcome to My World! 🌟
-Hi there! I'm **Leo** 👋, a passionate software developer, open-source enthusiast, and lifelong learner. I love working on innovative projects, diving deep into new technologies, and contributing to the coding community. 
+Hi! I'm **Leo** 👋, 
 
 🚀 **Let's build the future together!**
 
