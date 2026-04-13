@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/header-banner.svg" width="100%" />
-
-<br/>
-
 <a href="https://leo-portfolio-pi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-F2F2F7?style=flat-square&logo=vercel&logoColor=1D1D1F" /></a>&nbsp;&nbsp;
 <a href="https://www.upwork.com/freelancers/~019ee1cca59b77acf4"><img src="https://img.shields.io/badge/Upwork-F2F2F7?style=flat-square&logo=upwork&logoColor=1D1D1F" /></a>
+
+<br/><br/>
+
+<img src="./assets/header-banner.svg" width="100%" />
 
 </div>
 
@@ -37,6 +37,15 @@ Dating & friendship matchmaking app. Full-stack mobile development with AI-drive
 </tr>
 </table>
 </details>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leo-devv&show_icons=true&hide_border=true&bg_color=00000000&title_color=E5E5EA&text_color=AEAEB2&icon_color=2563EB&ring_color=2563EB" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leo-devv&hide_border=true&background=00000000&ring=2563EB&fire=6366F1&currStreakLabel=E5E5EA&sideLabels=AEAEB2&currStreakNum=E5E5EA&sideNums=AEAEB2&dates=86868B" width="48%" />
+
+</div>
 
 <br/>
 
@@ -75,11 +84,6 @@ Dating & friendship matchmaking app. Full-stack mobile development with AI-drive
 <br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leo-devv&show_icons=true&hide_border=true&bg_color=00000000&title_color=E5E5EA&text_color=AEAEB2&icon_color=2563EB&ring_color=2563EB" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leo-devv&hide_border=true&background=00000000&ring=2563EB&fire=6366F1&currStreakLabel=E5E5EA&sideLabels=AEAEB2&currStreakNum=E5E5EA&sideNums=AEAEB2&dates=86868B" width="48%" />
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Leo-devv&style=flat-square&color=2563EB&label=Profile+Views" />
 
