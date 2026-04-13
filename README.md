@@ -44,27 +44,33 @@ Dating & friendship matchmaking app. Full-stack mobile development with AI-drive
 
 <div align="center">
 
-**Frontend**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Backend**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**AI & LLM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**DevOps**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,redux,nodejs,python,postgresql,mongodb,graphql&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,redux&theme=dark" />
 
-<br/>
+**Backend**
 
-<img src="https://img.shields.io/badge/OpenAI-F2F2F7?style=flat-square&logo=openai&logoColor=412991" />&nbsp;
-<img src="https://img.shields.io/badge/Anthropic-F2F2F7?style=flat-square&logo=anthropic&logoColor=D97757" />&nbsp;
-<img src="https://img.shields.io/badge/LangChain-F2F2F7?style=flat-square&logoColor=1C3C3C" />&nbsp;
-<img src="https://img.shields.io/badge/pgvector-F2F2F7?style=flat-square&logo=postgresql&logoColor=336791" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,postgresql,mongodb,graphql&theme=dark" />
 
-<br/>
+**AI & LLM**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+<img src="https://img.shields.io/badge/OpenAI-1D1D1F?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-1D1D1F?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1D1D1F?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/pgvector-1D1D1F?style=flat-square&logo=postgresql&logoColor=white" />
 
-<br/>
+**DevOps**
 
-<img src="https://img.shields.io/badge/Framer-F2F2F7?style=flat-square&logo=framer&logoColor=0055FF" />&nbsp;
-<img src="https://img.shields.io/badge/Twilio-F2F2F7?style=flat-square&logo=twilio&logoColor=F22F46" />&nbsp;
-<img src="https://img.shields.io/badge/v0-F2F2F7?style=flat-square&logo=vercel&logoColor=000000" />&nbsp;
-<img src="https://img.shields.io/badge/Claude_Code-F2F2F7?style=flat-square&logo=anthropic&logoColor=D97757" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions&theme=dark" />
+
+**Design & Tools**
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+<img src="https://img.shields.io/badge/Framer-1D1D1F?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Twilio-1D1D1F?style=flat-square&logo=twilio&logoColor=white" />
+<img src="https://img.shields.io/badge/v0-1D1D1F?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-1D1D1F?style=flat-square&logo=anthropic&logoColor=white" />
 
 </div>
 
