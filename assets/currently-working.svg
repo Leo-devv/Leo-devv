@@ -12,8 +12,8 @@
   <rect width="1200" height="200" fill="none" rx="12"/>
 
   <!-- Card 1: Vindey -->
-  <rect x="40" y="28" width="545" height="144" rx="16" fill="white" filter="url(#cardShadow)"/>
-  <rect x="40" y="28" width="545" height="144" rx="16" fill="none" stroke="#000000" stroke-opacity="0.04" stroke-width="0.5"/>
+  <rect x="40" y="28" width="545" height="144" rx="16" fill="white" fill-opacity="0.06" filter="url(#cardShadow)"/>
+  <rect x="40" y="28" width="545" height="144" rx="16" fill="none" stroke="#000000" stroke="white" stroke-opacity="0.08" stroke-width="0.5"/>
 
   <!-- Vindey accent dot -->
   <circle cx="72" cy="60" r="10" fill="#2bbcc4" opacity="0.12"/>
@@ -21,28 +21,28 @@
 
   <text x="92" y="56" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#AEAEB2">2024 — Present</text>
 
-  <text x="72" y="86" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="600" fill="#1D1D1F" letter-spacing="-0.3">Vindey</text>
+  <text x="72" y="86" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="600" fill="#E5E5EA" letter-spacing="-0.3">Vindey</text>
   <text x="72" y="106" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#86868B">Founder · AI-first property management software</text>
 
   <!-- Tags -->
-  <rect x="72" y="122" width="62" height="22" rx="11" fill="#000000" fill-opacity="0.03"/>
+  <rect x="72" y="122" width="62" height="22" rx="11" fill="white" fill-opacity="0.06"/>
   <text x="103" y="136" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" font-weight="500" fill="#86868B">Full-Stack</text>
 
-  <rect x="142" y="122" width="50" height="22" rx="11" fill="#000000" fill-opacity="0.03"/>
+  <rect x="142" y="122" width="50" height="22" rx="11" fill="white" fill-opacity="0.06"/>
   <text x="167" y="136" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" font-weight="500" fill="#86868B">AI/LLM</text>
 
-  <rect x="200" y="122" width="60" height="22" rx="11" fill="#000000" fill-opacity="0.03"/>
+  <rect x="200" y="122" width="60" height="22" rx="11" fill="white" fill-opacity="0.06"/>
   <text x="230" y="136" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" font-weight="500" fill="#86868B">Real-time</text>
 
-  <rect x="268" y="122" width="42" height="22" rx="11" fill="#000000" fill-opacity="0.03"/>
+  <rect x="268" y="122" width="42" height="22" rx="11" fill="white" fill-opacity="0.06"/>
   <text x="289" y="136" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" font-weight="500" fill="#86868B">PWA</text>
 
   <text x="546" y="158" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#2bbcc4">vindey.com →</text>
 
 
   <!-- Card 2: KindsSecurity -->
-  <rect x="615" y="28" width="545" height="144" rx="16" fill="white" filter="url(#cardShadow)"/>
-  <rect x="615" y="28" width="545" height="144" rx="16" fill="none" stroke="#000000" stroke-opacity="0.04" stroke-width="0.5"/>
+  <rect x="615" y="28" width="545" height="144" rx="16" fill="white" fill-opacity="0.06" filter="url(#cardShadow)"/>
+  <rect x="615" y="28" width="545" height="144" rx="16" fill="none" stroke="#000000" stroke="white" stroke-opacity="0.08" stroke-width="0.5"/>
 
   <!-- Kinds accent dot -->
   <circle cx="647" cy="60" r="10" fill="#334155" opacity="0.12"/>
@@ -50,20 +50,20 @@
 
   <text x="667" y="56" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#AEAEB2">2024 — Present</text>
 
-  <text x="647" y="86" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="600" fill="#1D1D1F" letter-spacing="-0.3">KindsSecurity</text>
+  <text x="647" y="86" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="600" fill="#E5E5EA" letter-spacing="-0.3">KindsSecurity</text>
   <text x="647" y="106" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#86868B">Security Specialist · Awareness training platform</text>
 
   <!-- Tags -->
-  <rect x="647" y="122" width="52" height="22" rx="11" fill="#000000" fill-opacity="0.03"/>
+  <rect x="647" y="122" width="52" height="22" rx="11" fill="white" fill-opacity="0.06"/>
   <text x="673" y="136" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" font-weight="500" fill="#86868B">Cyber</text>
 
-  <rect x="707" y="122" width="60" height="22" rx="11" fill="#000000" fill-opacity="0.03"/>
+  <rect x="707" y="122" width="60" height="22" rx="11" fill="white" fill-opacity="0.06"/>
   <text x="737" y="136" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" font-weight="500" fill="#86868B">Training</text>
 
-  <rect x="775" y="122" width="60" height="22" rx="11" fill="#000000" fill-opacity="0.03"/>
+  <rect x="775" y="122" width="60" height="22" rx="11" fill="white" fill-opacity="0.06"/>
   <text x="805" y="136" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" font-weight="500" fill="#86868B">Phishing</text>
 
-  <rect x="843" y="122" width="76" height="22" rx="11" fill="#000000" fill-opacity="0.03"/>
+  <rect x="843" y="122" width="76" height="22" rx="11" fill="white" fill-opacity="0.06"/>
   <text x="881" y="136" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" font-weight="500" fill="#86868B">Compliance</text>
 
   <text x="1121" y="158" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#334155">kindssecurity.com →</text>
