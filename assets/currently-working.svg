@@ -8,9 +8,8 @@
     </filter>
   </defs>
 
-  <!-- Background -->
-  <rect width="1200" height="200" fill="#F2F2F7" rx="12"/>
-  <rect width="1200" height="200" fill="url(#dots)" rx="12"/>
+  <!-- Background — transparent -->
+  <rect width="1200" height="200" fill="none" rx="12"/>
 
   <!-- Card 1: Vindey -->
   <rect x="40" y="28" width="545" height="144" rx="16" fill="white" filter="url(#cardShadow)"/>

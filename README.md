@@ -1,28 +1,18 @@
 <div align="center">
 
-<!-- Header Banner — macOS window -->
 <img src="./assets/header-banner.svg" width="100%" />
 
 <br/>
 
-<a href="https://leo-portfolio-pi.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-1D1D1F?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.upwork.com/freelancers/~019ee1cca59b77acf4">
-<img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/leo__amiri/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://github.com/Leo-devv">
-<img src="https://img.shields.io/badge/GitHub-1D1D1F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://leo-portfolio-pi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-F2F2F7?style=flat-square&logo=vercel&logoColor=1D1D1F" /></a>&nbsp;&nbsp;
+<a href="https://www.upwork.com/freelancers/~019ee1cca59b77acf4"><img src="https://img.shields.io/badge/Upwork-F2F2F7?style=flat-square&logo=upwork&logoColor=1D1D1F" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/leo__amiri/"><img src="https://img.shields.io/badge/Instagram-F2F2F7?style=flat-square&logo=instagram&logoColor=1D1D1F" /></a>&nbsp;&nbsp;
+<a href="https://github.com/Leo-devv"><img src="https://img.shields.io/badge/GitHub-F2F2F7?style=flat-square&logo=github&logoColor=1D1D1F" /></a>
 
 </div>
 
 <br/>
 
-<!-- Currently Working -->
 <img src="./assets/currently-working.svg" width="100%" />
 
 <br/>
@@ -52,42 +42,29 @@ Dating & friendship matchmaking app. Full-stack mobile development with AI-drive
 
 <br/>
 
-## Tech Stack
-
 <div align="center">
 
-**Frontend**
+**Frontend**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Backend**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**AI & LLM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**DevOps**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,redux&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,redux,nodejs,python,postgresql,mongodb,graphql&theme=light" />
 
-**Backend**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,postgresql,mongodb,graphql&theme=light" />
+<img src="https://img.shields.io/badge/OpenAI-F2F2F7?style=flat-square&logo=openai&logoColor=412991" />&nbsp;
+<img src="https://img.shields.io/badge/Anthropic-F2F2F7?style=flat-square&logo=anthropic&logoColor=D97757" />&nbsp;
+<img src="https://img.shields.io/badge/LangChain-F2F2F7?style=flat-square&logoColor=1C3C3C" />&nbsp;
+<img src="https://img.shields.io/badge/pgvector-F2F2F7?style=flat-square&logo=postgresql&logoColor=336791" />
 
-**AI & LLM**
+<br/>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,figma&theme=light" />
 
-**DevOps**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions&theme=light" />
-
-**Mobile & Real-time**
-
-<img src="https://skillicons.dev/icons?i=flutter&theme=light" />
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-C084FC?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
-
-**Design & Tools**
-
-<img src="https://skillicons.dev/icons?i=figma&theme=light" />
-<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-F2F2F7?style=flat-square&logo=framer&logoColor=0055FF" />&nbsp;
+<img src="https://img.shields.io/badge/Twilio-F2F2F7?style=flat-square&logo=twilio&logoColor=F22F46" />&nbsp;
+<img src="https://img.shields.io/badge/v0-F2F2F7?style=flat-square&logo=vercel&logoColor=000000" />&nbsp;
+<img src="https://img.shields.io/badge/Claude_Code-F2F2F7?style=flat-square&logo=anthropic&logoColor=D97757" />
 
 </div>
 

@@ -16,9 +16,8 @@
     </radialGradient>
   </defs>
 
-  <!-- Background -->
-  <rect width="1200" height="300" fill="#F2F2F7" rx="12"/>
-  <rect width="1200" height="300" fill="url(#dotGrid)" rx="12"/>
+  <!-- Background — transparent, no fill -->
+  <rect width="1200" height="300" fill="none" rx="12"/>
   <rect width="1200" height="300" fill="url(#glowL)" rx="12"/>
   <rect width="1200" height="300" fill="url(#glowR)" rx="12"/>
 
