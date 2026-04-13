@@ -1,95 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
   <defs>
-    <pattern id="dotGrid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
-      <circle cx="20" cy="20" r="1" fill="#000000" opacity="0.06"/>
-    </pattern>
     <filter id="cardShadow">
       <feDropShadow dx="0" dy="2" stdDeviation="8" flood-color="#000000" flood-opacity="0.04"/>
     </filter>
-    <radialGradient id="glowL" cx="15%" cy="80%" r="40%">
-      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowR" cx="85%" cy="30%" r="35%">
-      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.06"/>
-      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
-    </radialGradient>
   </defs>
 
-  <!-- Background — transparent, no fill -->
-  <rect width="1200" height="300" fill="none" rx="12"/>
-  <rect width="1200" height="300" fill="url(#glowL)" rx="12"/>
-  <rect width="1200" height="300" fill="url(#glowR)" rx="12"/>
-
-  <!-- Main card — semi-transparent -->
-  <rect x="80" y="40" width="1040" height="220" rx="18" fill="white" fill-opacity="0.06" filter="url(#cardShadow)"/>
-  <rect x="80" y="40" width="1040" height="220" rx="18" fill="none" stroke="white" stroke-opacity="0.08" stroke-width="0.5"/>
+  <!-- Card — full width -->
+  <rect x="0" y="0" width="1200" height="260" rx="12" fill="white" fill-opacity="0.06"/>
+  <rect x="0" y="0" width="1200" height="260" rx="12" fill="none" stroke="white" stroke-opacity="0.08" stroke-width="0.5"/>
 
   <!-- macOS dots -->
-  <circle cx="108" cy="64" r="5" fill="#FF5F56"/>
-  <circle cx="126" cy="64" r="5" fill="#FFBD2E"/>
-  <circle cx="144" cy="64" r="5" fill="#27C93F"/>
+  <circle cx="24" cy="22" r="5" fill="#FF5F56"/>
+  <circle cx="42" cy="22" r="5" fill="#FFBD2E"/>
+  <circle cx="60" cy="22" r="5" fill="#27C93F"/>
 
   <!-- URL bar -->
-  <rect x="520" y="54" width="140" height="20" rx="6" fill="white" fill-opacity="0.06"/>
-  <text x="590" y="68" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#AEAEB2">leo-amiri.dev</text>
+  <rect x="500" y="12" width="140" height="20" rx="6" fill="white" fill-opacity="0.06"/>
+  <text x="570" y="26" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#AEAEB2">leo-amiri.dev</text>
 
-  <!-- Divider below chrome -->
-  <line x1="80" y1="84" x2="1120" y2="84" stroke="#000000" stroke-opacity="0.04" stroke-width="0.5"/>
+  <!-- Divider -->
+  <line x1="0" y1="42" x2="1200" y2="42" stroke="white" stroke-opacity="0.04" stroke-width="0.5"/>
 
-  <!-- Left content -->
   <!-- Name -->
-  <text x="120" y="130" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-size="36" font-weight="600" fill="#E5E5EA" letter-spacing="-0.5">Leo Amiri</text>
+  <text x="36" y="90" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-size="36" font-weight="600" fill="#E5E5EA" letter-spacing="-0.5">Leo Amiri</text>
 
   <!-- Subtitle -->
-  <text x="120" y="160" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="400" fill="#86868B">Full-Stack Engineer &amp; Product Builder</text>
+  <text x="36" y="116" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="400" fill="#86868B">Full-Stack Engineer &amp; Product Builder</text>
 
   <!-- Tag pills -->
-  <rect x="120" y="180" width="62" height="24" rx="12" fill="white" fill-opacity="0.06"/>
-  <text x="151" y="196" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#86868B">React</text>
+  <rect x="36" y="134" width="62" height="24" rx="12" fill="white" fill-opacity="0.06"/>
+  <text x="67" y="150" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#86868B">React</text>
 
-  <rect x="190" y="180" width="66" height="24" rx="12" fill="white" fill-opacity="0.06"/>
-  <text x="223" y="196" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#86868B">Next.js</text>
+  <rect x="106" y="134" width="66" height="24" rx="12" fill="white" fill-opacity="0.06"/>
+  <text x="139" y="150" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#86868B">Next.js</text>
 
-  <rect x="264" y="180" width="62" height="24" rx="12" fill="white" fill-opacity="0.06"/>
-  <text x="295" y="196" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#86868B">Python</text>
+  <rect x="180" y="134" width="62" height="24" rx="12" fill="white" fill-opacity="0.06"/>
+  <text x="211" y="150" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#86868B">Python</text>
 
-  <rect x="334" y="180" width="66" height="24" rx="12" fill="white" fill-opacity="0.06"/>
-  <text x="367" y="196" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#86868B">Node.js</text>
+  <rect x="250" y="134" width="66" height="24" rx="12" fill="white" fill-opacity="0.06"/>
+  <text x="283" y="150" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#86868B">Node.js</text>
 
-  <rect x="408" y="180" width="42" height="24" rx="12" fill="#2563EB" fill-opacity="0.08"/>
-  <text x="429" y="196" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#2563EB">AI</text>
+  <rect x="324" y="134" width="42" height="24" rx="12" fill="#2563EB" fill-opacity="0.08"/>
+  <text x="345" y="150" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#2563EB">AI</text>
 
   <!-- Description -->
-  <text x="120" y="232" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#AEAEB2">I design, build, and ship digital products from the ground up, from architecture to launch.</text>
+  <text x="36" y="184" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#AEAEB2">I design, build, and ship digital products from the ground up, from architecture to launch.</text>
 
-  <!-- Right side — code block -->
-  <rect x="660" y="100" width="380" height="140" rx="12" fill="white" fill-opacity="0.04"/>
-  <rect x="660" y="100" width="380" height="140" rx="12" fill="none" stroke="white" stroke-opacity="0.06" stroke-width="0.5"/>
+  <!-- Code block — right side, full height -->
+  <rect x="580" y="54" width="590" height="190" rx="12" fill="white" fill-opacity="0.04"/>
+  <rect x="580" y="54" width="590" height="190" rx="12" fill="none" stroke="white" stroke-opacity="0.06" stroke-width="0.5"/>
 
-  <!-- Mini dots on code card -->
-  <circle cx="680" cy="116" r="3" fill="#FF5F56" opacity="0.5"/>
-  <circle cx="692" cy="116" r="3" fill="#FFBD2E" opacity="0.5"/>
-  <circle cx="704" cy="116" r="3" fill="#27C93F" opacity="0.5"/>
+  <!-- Code dots -->
+  <circle cx="602" cy="74" r="3" fill="#FF5F56" opacity="0.5"/>
+  <circle cx="614" cy="74" r="3" fill="#FFBD2E" opacity="0.5"/>
+  <circle cx="626" cy="74" r="3" fill="#27C93F" opacity="0.5"/>
 
-  <!-- Code lines -->
-  <text x="680" y="146" font-family="'SF Mono', 'Fira Code', monospace" font-size="11">
+  <!-- Code -->
+  <text x="602" y="106" font-family="'SF Mono', 'Fira Code', monospace" font-size="12">
     <tspan fill="#A855F7">const</tspan><tspan fill="#E5E5EA"> leo </tspan><tspan fill="#AEAEB2">= {</tspan>
   </text>
-  <text x="696" y="162" font-family="'SF Mono', 'Fira Code', monospace" font-size="11">
+  <text x="620" y="126" font-family="'SF Mono', 'Fira Code', monospace" font-size="12">
     <tspan fill="#AEAEB2">role: </tspan><tspan fill="#16A34A">"Full-Stack Engineer"</tspan><tspan fill="#AEAEB2">,</tspan>
   </text>
-  <text x="696" y="178" font-family="'SF Mono', 'Fira Code', monospace" font-size="11">
+  <text x="620" y="146" font-family="'SF Mono', 'Fira Code', monospace" font-size="12">
     <tspan fill="#AEAEB2">ships: </tspan><tspan fill="#16A34A">"fast"</tspan><tspan fill="#AEAEB2">,</tspan>
   </text>
-  <text x="696" y="194" font-family="'SF Mono', 'Fira Code', monospace" font-size="11">
+  <text x="620" y="166" font-family="'SF Mono', 'Fira Code', monospace" font-size="12">
     <tspan fill="#AEAEB2">builds: </tspan><tspan fill="#16A34A">"solo"</tspan><tspan fill="#AEAEB2">,</tspan>
   </text>
-  <text x="696" y="210" font-family="'SF Mono', 'Fira Code', monospace" font-size="11">
+  <text x="620" y="186" font-family="'SF Mono', 'Fira Code', monospace" font-size="12">
     <tspan fill="#AEAEB2">ai: </tspan><tspan fill="#2563EB">true</tspan>
   </text>
-  <text x="680" y="226" font-family="'SF Mono', 'Fira Code', monospace" font-size="11" fill="#AEAEB2">};</text>
+  <text x="602" y="206" font-family="'SF Mono', 'Fira Code', monospace" font-size="12" fill="#AEAEB2">};</text>
 
   <!-- Cursor -->
-  <rect x="700" y="228" width="6" height="12" rx="1" fill="#2563EB" opacity="0.6"/>
+  <rect x="622" y="210" width="7" height="14" rx="1" fill="#2563EB" opacity="0.6"/>
 </svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+  <defs>
+    <filter id="prevShadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#000000" flood-opacity="0.04"/>
+    </filter>
+  </defs>
+
+  <!-- Card 1: Lightwork AI -->
+  <rect x="40" y="14" width="545" height="140" rx="16" fill="white" fill-opacity="0.06" filter="url(#prevShadow)"/>
+  <rect x="40" y="14" width="545" height="140" rx="16" fill="none" stroke="white" stroke-opacity="0.08" stroke-width="0.5"/>
+
+  <text x="72" y="42" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#AEAEB2">2020 — 2022</text>
+
+  <text x="72" y="72" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="600" fill="#E5E5EA" letter-spacing="-0.3">Lightwork AI</text>
+  <text x="72" y="92" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#86868B">Product Lead · AI property maintenance &amp; compliance</text>
+
+  <rect x="72" y="108" width="58" height="22" rx="11" fill="white" fill-opacity="0.06"/>
+  <text x="101" y="122" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#86868B">Product</text>
+
+  <rect x="138" y="108" width="54" height="22" rx="11" fill="white" fill-opacity="0.06"/>
+  <text x="165" y="122" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#86868B">Flutter</text>
+
+  <rect x="200" y="108" width="42" height="22" rx="11" fill="white" fill-opacity="0.06"/>
+  <text x="221" y="122" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#86868B">AWS</text>
+
+  <text x="546" y="140" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#0ea5e9">lightwork.co →</text>
+
+  <!-- Card 2: Fireworks -->
+  <rect x="615" y="14" width="545" height="140" rx="16" fill="white" fill-opacity="0.06" filter="url(#prevShadow)"/>
+  <rect x="615" y="14" width="545" height="140" rx="16" fill="none" stroke="white" stroke-opacity="0.08" stroke-width="0.5"/>
+
+  <text x="647" y="42" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#AEAEB2">2022 — 2024</text>
+
+  <text x="647" y="72" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="600" fill="#E5E5EA" letter-spacing="-0.3">Fireworks</text>
+  <text x="647" y="92" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#86868B">Product Engineer · Dating &amp; friendship matchmaking</text>
+
+  <rect x="647" y="108" width="54" height="22" rx="11" fill="white" fill-opacity="0.06"/>
+  <text x="674" y="122" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#86868B">Mobile</text>
+
+  <rect x="709" y="108" width="48" height="22" rx="11" fill="white" fill-opacity="0.06"/>
+  <text x="733" y="122" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#86868B">React</text>
+
+  <rect x="765" y="108" width="36" height="22" rx="11" fill="white" fill-opacity="0.06"/>
+  <text x="783" y="122" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="500" fill="#86868B">AI</text>
+
+  <text x="1121" y="140" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#F67F62">fireworks.date →</text>
+</svg>

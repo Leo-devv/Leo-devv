@@ -11,32 +11,15 @@
 
 <br/>
 
+### Currently
+
 <img src="./assets/currently-working.svg" width="100%" />
 
 <br/>
 
-<details>
-<summary><b>Previously</b></summary>
-<br/>
-<table>
-<tr>
-<td width="50%">
+### Previously
 
-**Product Lead @ [Lightwork AI](https://lightwork.co)**
-<br/>
-Led product from seed stage. Rapid prototyping workflows that helped close a $3M round.
-
-</td>
-<td width="50%">
-
-**Product Engineer @ [Fireworks](https://fireworks.date)**
-<br/>
-Dating & friendship matchmaking app. Full-stack mobile development with AI-driven matching.
-
-</td>
-</tr>
-</table>
-</details>
+<img src="./assets/previously-working.svg" width="100%" />
 
 <br/>
 
@@ -48,6 +31,8 @@ Dating & friendship matchmaking app. Full-stack mobile development with AI-drive
 </div>
 
 <br/>
+
+### Tech Stack
 
 <div align="center">
 
