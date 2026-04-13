@@ -15,11 +15,7 @@
   <rect x="40" y="28" width="545" height="144" rx="16" fill="white" fill-opacity="0.06" filter="url(#cardShadow)"/>
   <rect x="40" y="28" width="545" height="144" rx="16" fill="none" stroke="#000000" stroke="white" stroke-opacity="0.08" stroke-width="0.5"/>
 
-  <!-- Vindey accent dot -->
-  <circle cx="72" cy="60" r="10" fill="#2bbcc4" opacity="0.12"/>
-  <circle cx="72" cy="60" r="4" fill="#2bbcc4"/>
-
-  <text x="92" y="56" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#AEAEB2">2024 — Present</text>
+  <text x="72" y="56" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#AEAEB2">2024 — Present</text>
 
   <text x="72" y="86" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="600" fill="#E5E5EA" letter-spacing="-0.3">Vindey</text>
   <text x="72" y="106" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#86868B">Founder · AI-first property management software</text>
@@ -44,11 +40,7 @@
   <rect x="615" y="28" width="545" height="144" rx="16" fill="white" fill-opacity="0.06" filter="url(#cardShadow)"/>
   <rect x="615" y="28" width="545" height="144" rx="16" fill="none" stroke="#000000" stroke="white" stroke-opacity="0.08" stroke-width="0.5"/>
 
-  <!-- Kinds accent dot -->
-  <circle cx="647" cy="60" r="10" fill="#334155" opacity="0.12"/>
-  <circle cx="647" cy="60" r="4" fill="#334155"/>
-
-  <text x="667" y="56" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#AEAEB2">2024 — Present</text>
+  <text x="647" y="56" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#AEAEB2">2024 — Present</text>
 
   <text x="647" y="86" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="600" fill="#E5E5EA" letter-spacing="-0.3">KindsSecurity</text>
   <text x="647" y="106" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#86868B">Security Specialist · Awareness training platform</text>
